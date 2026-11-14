@@ -1,39 +1,25 @@
 #EXTM3U
-
-# Azərbaycan
-#EXTINF:-1 group-title="AZ | Azərbaycan",ATV Azərbaycan
+#EXTINF:-1,ATV Azerbaijan
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-
-#EXTINF:-1 group-title="AZ | Azərbaycan",İctimai TV
+#EXTINF:-1,Ictimai TV
 https://live.itv.az/itv.m3u8
-
-#EXTINF:-1 group-title="AZ | Azərbaycan",Baku TV
+#EXTINF:-1,Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-
-#EXTINF:-1 group-title="AZ | Azərbaycan",Mədəniyyət TV
+#EXTINF:-1,Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-
-#EXTINF:-1 group-title="AZ | Azərbaycan",Xəzər TV
+#EXTINF:-1,Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8
-
-# Türkiyə - TRT
-#EXTINF:-1 group-title="TR | Türkiyə",TRT 1
+#EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT 2
+#EXTINF:-1,TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT Haber
+#EXTINF:-1,TRT Haber
 https://tv-trt-haber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT Spor
+#EXTINF:-1,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT Spor Yıldız
+#EXTINF:-1,TRT Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT Belgesel
+#EXTINF:-1,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="TR | Türkiyə",TRT Türk
+#EXTINF:-1,TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
