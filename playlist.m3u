@@ -12,10 +12,6 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8
-#EXTINF:-1,Space TV
-https://stream01.space tv.az/live/playlist.m3u8
-#EXTINF:-1,ARB 24
-https://arb24.az/live/stream.m3u8
 #EXTINF:-1,EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1,Kanal 35
