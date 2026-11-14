@@ -1,6 +1,9 @@
 #EXTM3U
+# AZERBAIJAN
 #EXTINF:-1,ATV Azerbaijan
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1,AZTV
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Baku TV
@@ -9,6 +12,21 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1,Space TV
+https://stream01.space tv.az/live/playlist.m3u8
+#EXTINF:-1,ARB 24
+https://arb24.az/live/stream.m3u8
+#EXTINF:-1,EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTINF:-1,Kanal 35
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1,Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,Naxcivan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1,CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+# TURKEY - TRT
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 2
@@ -18,8 +36,20 @@ https://tv-trt-haber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+https://tv-trt-spor-yildiz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Diyanet Cocuk
+https://tv-trt-diyanet-cocuk.medya.trt.com.tr/master_720.m3u8
